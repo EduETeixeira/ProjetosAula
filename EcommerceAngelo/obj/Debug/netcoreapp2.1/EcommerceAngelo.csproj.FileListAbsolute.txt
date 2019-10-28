@@ -1,0 +1,56 @@
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.deps.json
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.runtimeconfig.json
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.runtimeconfig.dev.json
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.dll
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.csprojAssemblyReference.cache
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.csproj.CoreCompileInputs.cache
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.RazorAssemblyInfo.cache
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.RazorAssemblyInfo.cs
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.AssemblyInfoInputs.cache
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.AssemblyInfo.cs
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.TagHelpers.input.cache
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.TagHelpers.output.cache
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.RazorCoreGenerate.cache
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.RazorTargetAssemblyInfo.cache
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.RazorTargetAssemblyInfo.cs
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.pdb
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.Views.dll
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.Views.pdb
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.Views.pdb
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.dll
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.pdb
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.csproj.CopyComplete
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Produto\Cadastrar.g.cshtml.cs
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Produto\Index.g.cshtml.cs
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Produto\Alterar.g.cshtml.cs
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\ProfessorDiogo\C#\EcommerceAngelo\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\eduar\OneDrive\Documentos\Eduardo E. Teixeira\C#\EcommerceAngelo-master\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.deps.json
+C:\Users\eduar\OneDrive\Documentos\Eduardo E. Teixeira\C#\EcommerceAngelo-master\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.runtimeconfig.json
+C:\Users\eduar\OneDrive\Documentos\Eduardo E. Teixeira\C#\EcommerceAngelo-master\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.runtimeconfig.dev.json
+C:\Users\eduar\OneDrive\Documentos\Eduardo E. Teixeira\C#\EcommerceAngelo-master\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.dll
+C:\Users\eduar\OneDrive\Documentos\Eduardo E. Teixeira\C#\EcommerceAngelo-master\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.pdb
+C:\Users\eduar\OneDrive\Documentos\Eduardo E. Teixeira\C#\EcommerceAngelo-master\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.Views.dll
+C:\Users\eduar\OneDrive\Documentos\Eduardo E. Teixeira\C#\EcommerceAngelo-master\EcommerceAngelo\bin\Debug\netcoreapp2.1\EcommerceAngelo.Views.pdb
+C:\Users\eduar\OneDrive\Documentos\Eduardo E. Teixeira\C#\EcommerceAngelo-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.csprojAssemblyReference.cache
+C:\Users\eduar\OneDrive\Documentos\Eduardo E. Teixeira\C#\EcommerceAngelo-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.csproj.CoreCompileInputs.cache
+C:\Users\eduar\OneDrive\Documentos\Eduardo E. Teixeira\C#\EcommerceAngelo-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.RazorAssemblyInfo.cache
+C:\Users\eduar\OneDrive\Documentos\Eduardo E. Teixeira\C#\EcommerceAngelo-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.RazorAssemblyInfo.cs
+C:\Users\eduar\OneDrive\Documentos\Eduardo E. Teixeira\C#\EcommerceAngelo-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.AssemblyInfoInputs.cache
+C:\Users\eduar\OneDrive\Documentos\Eduardo E. Teixeira\C#\EcommerceAngelo-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.AssemblyInfo.cs
+C:\Users\eduar\OneDrive\Documentos\Eduardo E. Teixeira\C#\EcommerceAngelo-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.TagHelpers.input.cache
+C:\Users\eduar\OneDrive\Documentos\Eduardo E. Teixeira\C#\EcommerceAngelo-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.TagHelpers.output.cache
+C:\Users\eduar\OneDrive\Documentos\Eduardo E. Teixeira\C#\EcommerceAngelo-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.RazorCoreGenerate.cache
+C:\Users\eduar\OneDrive\Documentos\Eduardo E. Teixeira\C#\EcommerceAngelo-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Produto\Alterar.g.cshtml.cs
+C:\Users\eduar\OneDrive\Documentos\Eduardo E. Teixeira\C#\EcommerceAngelo-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Produto\Cadastrar.g.cshtml.cs
+C:\Users\eduar\OneDrive\Documentos\Eduardo E. Teixeira\C#\EcommerceAngelo-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Produto\Index.g.cshtml.cs
+C:\Users\eduar\OneDrive\Documentos\Eduardo E. Teixeira\C#\EcommerceAngelo-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\eduar\OneDrive\Documentos\Eduardo E. Teixeira\C#\EcommerceAngelo-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\eduar\OneDrive\Documentos\Eduardo E. Teixeira\C#\EcommerceAngelo-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\eduar\OneDrive\Documentos\Eduardo E. Teixeira\C#\EcommerceAngelo-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.RazorTargetAssemblyInfo.cache
+C:\Users\eduar\OneDrive\Documentos\Eduardo E. Teixeira\C#\EcommerceAngelo-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.RazorTargetAssemblyInfo.cs
+C:\Users\eduar\OneDrive\Documentos\Eduardo E. Teixeira\C#\EcommerceAngelo-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.Views.pdb
+C:\Users\eduar\OneDrive\Documentos\Eduardo E. Teixeira\C#\EcommerceAngelo-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.dll
+C:\Users\eduar\OneDrive\Documentos\Eduardo E. Teixeira\C#\EcommerceAngelo-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.pdb
+C:\Users\eduar\OneDrive\Documentos\Eduardo E. Teixeira\C#\EcommerceAngelo-master\EcommerceAngelo\obj\Debug\netcoreapp2.1\EcommerceAngelo.csproj.CopyComplete
